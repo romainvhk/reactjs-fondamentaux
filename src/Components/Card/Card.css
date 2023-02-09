@@ -1,0 +1,13 @@
+.article {
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 500px;
+    padding: 0px 5px;
+}
+
+.article__photo {
+    height: 400px;
+    max-width: 500px;
+    border: solid 1px black;
+}
+
